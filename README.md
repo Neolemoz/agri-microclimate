@@ -3,7 +3,6 @@
  Hackathon Project — Extending CMU Research into a Self-Powered Smart Farm System
 
 
-
 ## 🧠 Overview
 
 This project is an **IoT-based smart farm system** designed to monitor and optimize environmental conditions inside a greenhouse.
@@ -14,7 +13,7 @@ It detects:
 2. Humidity pockets
 3. Poor airflow zones
 
-…and enables **intelligent airflow optimization** using a distributed sensor network.
+and enables **intelligent airflow optimization** using a distributed sensor network.
 
 
 ## 🔬 Project Background (Hackathon Context)
@@ -100,7 +99,6 @@ We integrate:
 > Greenhouse farming , Hydroponics systems , Precision agriculture , Climate-sensitive crops
 
 
-
 ## 🏆 Hackathon Value
 
 This project demonstrates:
@@ -109,7 +107,6 @@ This project demonstrates:
 2. Renewable energy integration
 3. IoT system design
 4. Full-stack + embedded system
-
 
 
 ## 📚 References
@@ -134,8 +131,6 @@ Chiang Mai University
 > “From energy generation → to intelligent environmental control”
 
 
-
-
 ## 💕 Acknowledgments
 
 This project was developed collaboratively during a hackathon.
@@ -148,7 +143,9 @@ Special thanks to all team members for:
 
 This project reflects the collective effort, resilience, and creativity of the team.
 
-## 📱Preview
+
+## ⊹ ࣪ ˖ Smart Farm Dashboard ⋆˚✿˖°
+
 <p align="center">
   <img src="assets/1.png" width="30%" style="margin:5px;" />
   <img src="assets/2.png" width="30%" style="margin:5px;" />
