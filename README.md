@@ -21,7 +21,7 @@ It detects:
 
 This project was developed as part of a **hackathon challenge**:
 
-> 💡 Transform research into a real-world product
+> Transform research into a real-world product
 
 We selected a research topic related to **carbon-based solar cells (CPSC / perovskite concept)** and explored how it could be applied beyond energy generation.
 
