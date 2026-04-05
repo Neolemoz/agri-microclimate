@@ -48,10 +48,10 @@ improves:
 2. Electrical performance
 3. Device stability
 
-### 📊 Reported Results:
+ Reported Results:
 
-1.  Efficiency ≈ **12.2%**
-2.  Stability ≈ **80% after 1000 hours**
+1.  Efficiency ≈ 12.2%
+2.  Stability ≈ 80% after 1000 hours
 
 
 
@@ -90,10 +90,10 @@ We integrate:
 
 ## Components
 
-> Sensor Nodes : Measure temperature & humidity, Low-power design
-> Gateway : Receives LoRa data, Detects hotspots & anomalies
-> Processing Layer : Zone-based analysis, Airflow optimization logic
-> Mobile Dashboard : Real-time visualization, Interactive farm UI
+1. Sensor Nodes : Measure temperature & humidity, Low-power design
+2. Gateway : Receives LoRa data, Detects hotspots & anomalies
+3. Processing Layer : Zone-based analysis, Airflow optimization logic
+4. Mobile Dashboard : Real-time visualization, Interactive farm UI
 
 
 ## 🌱 Use Cases  
