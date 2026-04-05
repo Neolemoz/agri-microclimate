@@ -2,7 +2,7 @@
 
  Hackathon Project — Extending CMU Research into a Self-Powered Smart Farm System
 
----
+
 
 ## 🧠 Overview
 
@@ -16,7 +16,6 @@ It detects:
 
 …and enables **intelligent airflow optimization** using a distributed sensor network.
 
----
 
 ## 🔬 Project Background (Hackathon Context)
 
@@ -26,7 +25,7 @@ This project was developed as part of a **hackathon challenge**:
 
 We selected a research topic related to **carbon-based solar cells (CPSC / perovskite concept)** and explored how it could be applied beyond energy generation.
 
----
+
 
 ## 🔬 Research Foundation (Chiang Mai University)
 
@@ -54,7 +53,7 @@ improves:
 1.  Efficiency ≈ **12.2%**
 2.  Stability ≈ **80% after 1000 hours**
 
----
+
 
 ## 🚀 Our Innovation
 
@@ -68,13 +67,13 @@ We integrate:
 2. IoT sensor network
 3. Real-time environmental intelligence
 
----
+
 
 ## 💡 Key Insight
 
 > “Energy systems should not only supply power — they should enable smarter environments.”
 
----
+
 
 ## 🏗️ System Architecture
 
@@ -89,55 +88,18 @@ We integrate:
 [ Mobile Dashboard App ]
 ```
 
-### Components:
+## Components
 
-**Sensor Nodes**
+> Sensor Nodes : Measure temperature & humidity, Low-power design
+> Gateway : Receives LoRa data, Detects hotspots & anomalies
+> Processing Layer : Zone-based analysis, Airflow optimization logic
+> Mobile Dashboard : Real-time visualization, Interactive farm UI
 
-  * Measure temperature & humidity
-  * Low-power design
-
-**Gateway**
-
-  * Receives LoRa data
-  * Detects hotspots & anomalies
-
-**Processing Layer**
-
-  * Zone-based analysis
-  * Airflow optimization logic
-
-**Mobile Dashboard**
-
-  * Real-time visualization
-  * Interactive farm UI
-
----
-
-## 📱 Dashboard Features
-
-🌡️ Temperature map
-💧 Humidity zones
-📍 4-point sensor visualization
-
----
-
-## 📂 Project Structure
-
-```text
-agri-microclimate/
-├── dashboard/        # Mobile app (React Native / Expo)
-├── firmware/         # Sensor node firmware
-├── gateway/          # LoRa receiver + processing
-├── docs/             # Architecture & documentation
-└── .gitignore
-```
-
----
 
 ## 🌱 Use Cases  
 > Greenhouse farming , Hydroponics systems , Precision agriculture , Climate-sensitive crops
 
----
+
 
 ## 🏆 Hackathon Value
 
@@ -148,7 +110,7 @@ This project demonstrates:
 3. IoT system design
 4. Full-stack + embedded system
 
----
+
 
 ## 📚 References
 
@@ -159,7 +121,6 @@ Room-temperature carbon electrodes with ethanol solvent interlacing process for 
 Energy Reports, 7, 2493–2500
 https://doi.org/10.1016/j.egyr.2021.04.031
 
----
 
 ## 👨‍💻 Author
 
@@ -167,13 +128,12 @@ https://doi.org/10.1016/j.egyr.2021.04.031
 Robotics & AI Engineering Student
 Chiang Mai University
 
----
 
 ## ✨ Tagline
 
 > “From energy generation → to intelligent environmental control”
 
----
+
 
 
 ## 💕 Acknowledgments
@@ -187,3 +147,10 @@ Special thanks to all team members for:
 - Problem-solving under time constraints  
 
 This project reflects the collective effort, resilience, and creativity of the team.
+
+## 📱Preview
+<p align="center">
+  <img src="assets/1.png" width="30%" style="margin:5px;" />
+  <img src="assets/2.png" width="30%" style="margin:5px;" />
+  <img src="assets/3.png" width="30%" style="margin:5px;" />
+</p>
